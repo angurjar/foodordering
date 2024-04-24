@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Annu@1998",
+    "database": "foodordering",
+    "host": "127.0.0.1",
+    "port": 5433,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Annu@1998",
+    "database": "foodordering",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": 5433
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Annu@1998",
+    "database": "foodordering",
+    "host": "127.0.0.1",
+    "port": 5433,
+    "dialect": "postgres"
+  }
+}
